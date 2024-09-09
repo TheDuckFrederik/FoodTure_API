@@ -3,7 +3,7 @@ from flask import Flask, jsonify
 #
 app = Flask(__name__)
 #
-dishes = [
+Dishes = [
     {
         "country": "Spain",
         "dish": "Paella Valenciana",
@@ -2613,11 +2613,11 @@ dishes = [
 #
 @app.route('/dishes', methods=['GET'])
 def get_dishes():
-    return jsonify(dishes)
+    return jsonify(Dishes)
 #
 @app.route('/dishes/<country>', methods=['GET'])
 def get_dish_by_country(country):
-    dish = next((d for d in dishes if d["country"].lower() == country.lower()), None)
+    dish = next((d for d in Dishes if d["country"].lower() == country.lower()), None)
     if dish:
         return jsonify(dish)
     return jsonify({"message": "Dish not found"}), 404
