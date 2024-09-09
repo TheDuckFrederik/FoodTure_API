@@ -1,3 +1,2 @@
-- http://127.0.0.1:5000/
-- http://127.0.0.1:5000/Dishes
-- http://127.0.0.1:5000/Dishes/Spain
+- http://127.0.0.1:5000/dishes
+- http://127.0.0.1:5000/dishes/Spain
