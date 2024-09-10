@@ -2611,16 +2611,15 @@ Dishes = [
     }
 ]
 #
-@app.route('/dishes', methods=['GET'])
 def get_dishes():
     return jsonify(Dishes)
 #
 @app.route('/dishes/<country>', methods=['GET'])
 def get_dish_by_country(country):
-    dish = next((d for d in Dishes if d["country"].lower() == country.lower()), None)
-    if dish:
-        return jsonify(dish)
-    return jsonify({"message": "Dish not found"}), 404
+    dishes_by_country = [d for d in Dishes if d["country"].lower() == country.lower()]
+    if dishes_by_country:
+        return jsonify(dishes_by_country)
+    return jsonify({"message": "Dish not found"}), 404@app.route('/dishes', methods=['GET'])
 #
 if __name__ == '__main__':
     app.run(debug=True)
