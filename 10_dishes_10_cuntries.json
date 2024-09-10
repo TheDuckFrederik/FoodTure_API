@@ -2,8 +2,6 @@
     {
         "country": "Spain",
         "dish": "Paella Valenciana",
-        "history": "Paella originated in Valencia in the 19th century, traditionally cooked over an open fire with locally sourced ingredients.",
-        "origin": "Valencia, Spain",
         "recipe": {
             "ingredients": [
                 "400g Bomba rice",
@@ -28,13 +26,13 @@
                 "Step 7: Bring to a boil, reduce heat, and simmer without stirring for about 20 minutes until rice is cooked.",
                 "Step 8: Let it rest for 5 minutes before serving."
             ]
-        }
+        },
+        "origin": "Valencia, Spain",
+        "history": "Paella originated in Valencia in the 19th century, traditionally cooked over an open fire with locally sourced ingredients."
     },
     {
         "country": "Spain",
         "dish": "Gazpacho",
-        "history": "Gazpacho is a cold soup from Andalusia, perfect for hot summer days, with roots in ancient Roman and Moorish culinary traditions.",
-        "origin": "Andalusia, Spain",
         "recipe": {
             "ingredients": [
                 "1kg ripe tomatoes, chopped",
@@ -53,13 +51,13 @@
                 "Step 4: Chill the gazpacho in the refrigerator for at least 2 hours before serving.",
                 "Step 5: Serve cold, optionally garnished with diced vegetables or croutons."
             ]
-        }
+        },
+        "origin": "Andalusia, Spain",
+        "history": "Gazpacho is a cold soup from Andalusia, perfect for hot summer days, with roots in ancient Roman and Moorish culinary traditions."
     },
     {
         "country": "Spain",
         "dish": "Tortilla Española (Spanish Omelette)",
-        "history": "The Spanish omelette, or tortilla, is a classic dish believed to have originated in the 19th century as a humble, filling meal for farmers.",
-        "origin": "Spain",
         "recipe": {
             "ingredients": [
                 "4 large potatoes, peeled and thinly sliced",
@@ -77,13 +75,13 @@
                 "Step 6: Flip the tortilla onto a plate, slide it back into the pan, and cook until fully set.",
                 "Step 7: Let it rest for a few minutes before slicing and serving."
             ]
-        }
+        },
+        "origin": "Spain",
+        "history": "The Spanish omelette, or tortilla, is a classic dish believed to have originated in the 19th century as a humble, filling meal for farmers."
     },
     {
         "country": "Spain",
         "dish": "Patatas Bravas",
-        "history": "Patatas Bravas, meaning 'fierce potatoes,' are a popular tapas dish known for their spicy tomato sauce, often served in bars across Spain.",
-        "origin": "Madrid, Spain",
         "recipe": {
             "ingredients": [
                 "500g potatoes, peeled and cut into cubes",
@@ -102,13 +100,13 @@
                 "Step 5: Add the tomato sauce, paprika, and chili powder, simmering for 10 minutes.",
                 "Step 6: Serve the potatoes topped with the spicy tomato sauce."
             ]
-        }
+        },
+        "origin": "Madrid, Spain",
+        "history": "Patatas Bravas, meaning 'fierce potatoes,' are a popular tapas dish known for their spicy tomato sauce, often served in bars across Spain."
     },
     {
         "country": "Spain",
         "dish": "Croquetas de Jamón (Ham Croquettes)",
-        "history": "Croquetas de Jamón are a beloved Spanish snack often found in tapas bars, combining béchamel sauce with chopped ham, breaded and fried to perfection.",
-        "origin": "Spain",
         "recipe": {
             "ingredients": [
                 "150g serrano ham, finely chopped",
@@ -128,13 +126,13 @@
                 "Step 5: Dip each croquette in beaten egg, then coat with breadcrumbs.",
                 "Step 6: Fry in hot oil until golden brown. Drain on paper towels before serving."
             ]
-        }
+        },
+        "origin": "Spain",
+        "history": "Croquetas de Jamón are a beloved Spanish snack often found in tapas bars, combining béchamel sauce with chopped ham, breaded and fried to perfection."
     },
     {
         "country": "Spain",
         "dish": "Pulpo a la Gallega (Galician Octopus)",
-        "history": "Pulpo a la Gallega is a traditional dish from Galicia, featuring tender octopus served with potatoes, olive oil, and paprika.",
-        "origin": "Galicia, Spain",
         "recipe": {
             "ingredients": [
                 "1kg octopus, cleaned",
@@ -150,13 +148,13 @@
                 "Step 4: Drain the octopus and potatoes, slice the octopus, and arrange on a plate with the potatoes.",
                 "Step 5: Drizzle with olive oil, sprinkle with paprika and coarse salt, and serve warm."
             ]
-        }
+        },
+        "origin": "Galicia, Spain",
+        "history": "Pulpo a la Gallega is a traditional dish from Galicia, featuring tender octopus served with potatoes, olive oil, and paprika."
     },
     {
         "country": "Spain",
         "dish": "Pisto Manchego",
-        "history": "Pisto Manchego is a vegetable stew similar to ratatouille, originating from the region of La Mancha and often served as a side dish or main meal.",
-        "origin": "La Mancha, Spain",
         "recipe": {
             "ingredients": [
                 "2 zucchinis, diced",
@@ -175,13 +173,13 @@
                 "Step 5: Add the chopped tomatoes, salt, and pepper, and simmer for 20 minutes.",
                 "Step 6: Serve hot, optionally topped with a fried egg or with bread."
             ]
-        }
+        },
+        "origin": "La Mancha, Spain",
+        "history": "Pisto Manchego is a vegetable stew similar to ratatouille, originating from the region of La Mancha and often served as a side dish or main meal."
     },
     {
         "country": "Spain",
         "dish": "Calamares a la Romana (Fried Squid Rings)",
-        "history": "Calamares a la Romana are a popular tapa in Spain, known for their crispy texture and are often enjoyed with a squeeze of lemon.",
-        "origin": "Spain",
         "recipe": {
             "ingredients": [
                 "500g squid rings",
@@ -198,13 +196,13 @@
                 "Step 4: Fry in hot oil until golden and crispy.",
                 "Step 5: Drain on paper towels and serve with lemon wedges."
             ]
-        }
+        },
+        "origin": "Spain",
+        "history": "Calamares a la Romana are a popular tapa in Spain, known for their crispy texture and are often enjoyed with a squeeze of lemon."
     },
     {
         "country": "Spain",
         "dish": "Fabada Asturiana",
-        "history": "Fabada Asturiana is a hearty bean stew from Asturias, featuring various meats and sausages, traditionally eaten during colder months.",
-        "origin": "Asturias, Spain",
         "recipe": {
             "ingredients": [
                 "500g dried white beans, soaked overnight",
@@ -223,13 +221,13 @@
                 "Step 4: Reduce heat and simmer for 2-3 hours until the beans are tender.",
                 "Step 5: Season with salt and serve hot."
             ]
-        }
+        },
+        "origin": "Asturias, Spain",
+        "history": "Fabada Asturiana is a hearty bean stew from Asturias, featuring various meats and sausages, traditionally eaten during colder months."
     },
     {
         "country": "Spain",
         "dish": "Gambas al Ajillo (Garlic Shrimp)",
-        "history": "Gambas al Ajillo is a classic tapa in Spain, featuring succulent shrimp cooked in a garlic and chili-infused olive oil.",
-        "origin": "Spain",
         "recipe": {
             "ingredients": [
                 "500g shrimp, peeled and deveined",
@@ -247,13 +245,13 @@
                 "Step 4: Stir in the smoked paprika and season with salt.",
                 "Step 5: Garnish with chopped parsley and serve immediately with crusty bread."
             ]
-        }
+        },
+        "origin": "Spain",
+        "history": "Gambas al Ajillo is a classic tapa in Spain, featuring succulent shrimp cooked in a garlic and chili-infused olive oil."
     },
     {
         "country": "Italy",
         "dish": "Spaghetti Carbonara",
-        "history": "Spaghetti Carbonara is a traditional Roman dish that gained popularity in the mid-20th century, known for its rich, creamy sauce made without cream.",
-        "origin": "Rome, Italy",
         "recipe": {
             "ingredients": [
                 "200g spaghetti",
@@ -273,13 +271,13 @@
                 "Step 6: Remove from heat and quickly stir in the egg mixture until creamy.",
                 "Step 7: Season with salt and black pepper before serving."
             ]
-        }
+        },
+        "origin": "Rome, Italy",
+        "history": "Spaghetti Carbonara is a traditional Roman dish that gained popularity in the mid-20th century, known for its rich, creamy sauce made without cream."
     },
     {
         "country": "Italy",
         "dish": "Margherita Pizza",
-        "history": "Pizza Margherita was created in Naples in 1889 to honor Queen Margherita of Savoy, reflecting the colors of the Italian flag.",
-        "origin": "Naples, Italy",
         "recipe": {
             "ingredients": [
                 "500g pizza dough",
@@ -297,13 +295,13 @@
                 "Step 5: Scatter basil leaves and drizzle with olive oil.",
                 "Step 6: Bake in the preheated oven for 8-10 minutes until the crust is golden and the cheese is melted."
             ]
-        }
+        },
+        "origin": "Naples, Italy",
+        "history": "Pizza Margherita was created in Naples in 1889 to honor Queen Margherita of Savoy, reflecting the colors of the Italian flag."
     },
     {
         "country": "Italy",
         "dish": "Lasagna",
-        "history": "Lasagna is a classic Italian dish dating back to ancient Rome, with the modern version evolving in the Emilia-Romagna region during the Middle Ages.",
-        "origin": "Emilia-Romagna, Italy",
         "recipe": {
             "ingredients": [
                 "300g lasagna sheets",
@@ -326,13 +324,13 @@
                 "Step 6: Repeat layers, finishing with a layer of cheese and Parmesan.",
                 "Step 7: Bake for 30-35 minutes until bubbling and golden on top."
             ]
-        }
+        },
+        "origin": "Emilia-Romagna, Italy",
+        "history": "Lasagna is a classic Italian dish dating back to ancient Rome, with the modern version evolving in the Emilia-Romagna region during the Middle Ages."
     },
     {
         "country": "Italy",
         "dish": "Risotto alla Milanese",
-        "history": "Risotto alla Milanese is a rich, creamy rice dish from Milan, known for its distinctive yellow color from saffron, a prized ingredient in Northern Italy.",
-        "origin": "Milan, Italy",
         "recipe": {
             "ingredients": [
                 "300g Arborio rice",
@@ -352,13 +350,13 @@
                 "Step 5: Stir in saffron, Parmesan cheese, salt, and pepper.",
                 "Step 6: Serve hot, garnished with additional Parmesan if desired."
             ]
-        }
+        },
+        "origin": "Milan, Italy",
+        "history": "Risotto alla Milanese is a rich, creamy rice dish from Milan, known for its distinctive yellow color from saffron, a prized ingredient in Northern Italy."
     },
     {
         "country": "Italy",
         "dish": "Osso Buco",
-        "history": "Osso Buco is a traditional Milanese dish featuring braised veal shanks, renowned for its rich flavor and tender meat.",
-        "origin": "Milan, Italy",
         "recipe": {
             "ingredients": [
                 "4 veal shanks, with bone",
@@ -380,13 +378,13 @@
                 "Step 5: Cover and simmer for 2 hours until the meat is tender and falling off the bone.",
                 "Step 6: Serve with gremolata and risotto or polenta."
             ]
-        }
+        },
+        "origin": "Milan, Italy",
+        "history": "Osso Buco is a traditional Milanese dish featuring braised veal shanks, renowned for its rich flavor and tender meat."
     },
     {
         "country": "Italy",
         "dish": "Bruschetta",
-        "history": "Bruschetta is a traditional Italian appetizer originating from Central Italy, typically served with fresh tomatoes and basil on toasted bread.",
-        "origin": "Central Italy",
         "recipe": {
             "ingredients": [
                 "1 baguette or Italian bread, sliced",
@@ -402,13 +400,13 @@
                 "Step 3: Spoon the tomato mixture onto the toasted bread slices.",
                 "Step 4: Serve immediately as an appetizer or snack."
             ]
-        }
+        },
+        "origin": "Central Italy",
+        "history": "Bruschetta is a traditional Italian appetizer originating from Central Italy, typically served with fresh tomatoes and basil on toasted bread."
     },
     {
         "country": "Italy",
         "dish": "Tiramisu",
-        "history": "Tiramisu is a classic Italian dessert from Veneto, known for its layers of coffee-soaked ladyfingers and creamy mascarpone filling.",
-        "origin": "Veneto, Italy",
         "recipe": {
             "ingredients": [
                 "250g mascarpone cheese",
@@ -428,13 +426,13 @@
                 "Step 6: Repeat layers and refrigerate for at least 4 hours.",
                 "Step 7: Dust with cocoa powder before serving."
             ]
-        }
+        },
+        "origin": "Veneto, Italy",
+        "history": "Tiramisu is a classic Italian dessert from Veneto, known for its layers of coffee-soaked ladyfingers and creamy mascarpone filling."
     },
     {
         "country": "Italy",
         "dish": "Panzanella",
-        "history": "Panzanella is a traditional Tuscan salad made with stale bread, tomatoes, and cucumbers, often enjoyed during the summer months.",
-        "origin": "Tuscany, Italy",
         "recipe": {
             "ingredients": [
                 "400g stale bread, cubed",
@@ -454,13 +452,13 @@
                 "Step 5: Season with salt and pepper, and garnish with fresh basil leaves.",
                 "Step 6: Let the salad sit for 30 minutes before serving to allow flavors to meld."
             ]
-        }
+        },
+        "origin": "Tuscany, Italy",
+        "history": "Panzanella is a traditional Tuscan salad made with stale bread, tomatoes, and cucumbers, often enjoyed during the summer months."
     },
     {
         "country": "Italy",
         "dish": "Fettuccine Alfredo",
-        "history": "Fettuccine Alfredo is a rich pasta dish invented in Rome in the early 20th century, known for its creamy cheese and butter sauce.",
-        "origin": "Rome, Italy",
         "recipe": {
             "ingredients": [
                 "250g fettuccine",
@@ -477,13 +475,13 @@
                 "Step 4: Drain the pasta and toss with the Alfredo sauce.",
                 "Step 5: Season with salt and pepper, and garnish with chopped parsley before serving."
             ]
-        }
+        },
+        "origin": "Rome, Italy",
+        "history": "Fettuccine Alfredo is a rich pasta dish invented in Rome in the early 20th century, known for its creamy cheese and butter sauce."
     },
     {
         "country": "Italy",
         "dish": "Ratatouille",
-        "history": "Ratatouille is a vegetable stew from Provence, often enjoyed as a summer dish featuring a medley of fresh vegetables.",
-        "origin": "Provence, Italy",
         "recipe": {
             "ingredients": [
                 "1 eggplant, diced",
@@ -503,13 +501,13 @@
                 "Step 4: Stir in tomatoes, thyme, salt, and pepper, and simmer for 20 minutes.",
                 "Step 5: Serve warm as a side dish or with crusty bread."
             ]
-        }
+        },
+        "origin": "Provence, Italy",
+        "history": "Ratatouille is a vegetable stew from Provence, often enjoyed as a summer dish featuring a medley of fresh vegetables."
     },
     {
         "country": "Germany",
         "dish": "Wiener Schnitzel",
-        "history": "Wiener Schnitzel is an Austrian dish that has become popular in Germany, known for its breaded veal cutlets traditionally served with lemon.",
-        "origin": "Vienna, Austria (popular in Germany)",
         "recipe": {
             "ingredients": [
                 "4 veal cutlets",
@@ -528,13 +526,13 @@
                 "Step 5: Fry the cutlets until golden brown and crispy, about 3-4 minutes per side.",
                 "Step 6: Drain on paper towels and serve with lemon wedges."
             ]
-        }
+        },
+        "origin": "Vienna, Austria (popular in Germany)",
+        "history": "Wiener Schnitzel is an Austrian dish that has become popular in Germany, known for its breaded veal cutlets traditionally served with lemon."
     },
     {
         "country": "Germany",
         "dish": "Bratwurst",
-        "history": "Bratwurst is a traditional German sausage made from pork and veal, enjoyed in various forms across Germany, especially during festivals.",
-        "origin": "Germany",
         "recipe": {
             "ingredients": [
                 "500g ground pork",
@@ -554,13 +552,13 @@
                 "Step 4: Stuff the sausage casings with the mixture if using, or shape into patties.",
                 "Step 5: Grill or pan-fry the sausages over medium heat until cooked through and browned."
             ]
-        }
+        },
+        "origin": "Germany",
+        "history": "Bratwurst is a traditional German sausage made from pork and veal, enjoyed in various forms across Germany, especially during festivals."
     },
     {
         "country": "Germany",
         "dish": "Sauerkraut",
-        "history": "Sauerkraut is a fermented cabbage dish popular in German cuisine, known for its tangy flavor and digestive benefits.",
-        "origin": "Germany",
         "recipe": {
             "ingredients": [
                 "1kg sauerkraut",
@@ -579,13 +577,13 @@
                 "Step 4: Simmer for 30-40 minutes until flavors meld and sauerkraut is tender.",
                 "Step 5: Season with salt and pepper before serving."
             ]
-        }
+        },
+        "origin": "Germany",
+        "history": "Sauerkraut is a fermented cabbage dish popular in German cuisine, known for its tangy flavor and digestive benefits."
     },
     {
         "country": "Germany",
         "dish": "Kartoffelsalat (Potato Salad)",
-        "history": "Kartoffelsalat is a staple side dish in German cuisine, often served with sausages or meats, and varies regionally in its ingredients and dressing.",
-        "origin": "Germany",
         "recipe": {
             "ingredients": [
                 "1kg potatoes, peeled and cubed",
@@ -603,13 +601,13 @@
                 "Step 4: Chill the salad in the refrigerator for at least 1 hour.",
                 "Step 5: Garnish with chopped parsley before serving."
             ]
-        }
+        },
+        "origin": "Germany",
+        "history": "Kartoffelsalat is a staple side dish in German cuisine, often served with sausages or meats, and varies regionally in its ingredients and dressing."
     },
     {
         "country": "Germany",
         "dish": "Sauerbraten",
-        "history": "Sauerbraten is a pot roast marinated in a sour vinegar mixture, a traditional German dish often served with red cabbage and dumplings.",
-        "origin": "Germany",
         "recipe": {
             "ingredients": [
                 "1kg beef roast",
@@ -631,13 +629,13 @@
                 "Step 4: Add the marinade and bring to a boil, then reduce heat and simmer for 2-3 hours until the meat is tender.",
                 "Step 5: Slice and serve with the gravy from the pot."
             ]
-        }
+        },
+        "origin": "Germany",
+        "history": "Sauerbraten is a pot roast marinated in a sour vinegar mixture, a traditional German dish often served with red cabbage and dumplings."
     },
     {
         "country": "Germany",
         "dish": "Königsberger Klopse",
-        "history": "Königsberger Klopse is a traditional German meatball dish with a creamy caper sauce, originating from Königsberg (now Kaliningrad).",
-        "origin": "Germany",
         "recipe": {
             "ingredients": [
                 "500g ground beef",
@@ -659,13 +657,13 @@
                 "Step 5: Stir in sour cream and capers, cook for an additional 5 minutes.",
                 "Step 6: Serve with the sauce."
             ]
-        }
+        },
+        "origin": "Germany",
+        "history": "Königsberger Klopse is a traditional German meatball dish with a creamy caper sauce, originating from Königsberg (now Kaliningrad)."
     },
     {
         "country": "Germany",
         "dish": "Bierwurst",
-        "history": "Bierwurst is a traditional German sausage made with beer and various spices, known for its flavorful and hearty taste.",
-        "origin": "Germany",
         "recipe": {
             "ingredients": [
                 "500g pork shoulder, finely chopped",
@@ -684,13 +682,13 @@
                 "Step 3: Stuff the mixture into sausage casings if using, or shape into patties.",
                 "Step 4: Cook sausages or patties in a pan over medium heat until browned and cooked through."
             ]
-        }
+        },
+        "origin": "Germany",
+        "history": "Bierwurst is a traditional German sausage made with beer and various spices, known for its flavorful and hearty taste."
     },
     {
         "country": "Germany",
         "dish": "Spätzle",
-        "history": "Spätzle is a traditional Swabian egg noodle, often served as a side dish with meats or in hearty stews.",
-        "origin": "Swabia, Germany",
         "recipe": {
             "ingredients": [
                 "250g all-purpose flour",
@@ -708,13 +706,13 @@
                 "Step 5: Melt butter in a pan and sauté the Spätzle until slightly crispy.",
                 "Step 6: Garnish with chopped parsley before serving."
             ]
-        }
+        },
+        "origin": "Swabia, Germany",
+        "history": "Spätzle is a traditional Swabian egg noodle, often served as a side dish with meats or in hearty stews."
     },
     {
         "country": "Germany",
         "dish": "Apfelstrudel",
-        "history": "Apfelstrudel is a famous Austrian dessert that has become popular in Germany, known for its flaky pastry and spiced apple filling.",
-        "origin": "Austria (popular in Germany)",
         "recipe": {
             "ingredients": [
                 "1 sheet puff pastry",
@@ -735,13 +733,13 @@
                 "Step 6: Brush with melted butter and bake for 25-30 minutes until golden brown.",
                 "Step 7: Dust with powdered sugar before serving."
             ]
-        }
+        },
+        "origin": "Austria (popular in Germany)",
+        "history": "Apfelstrudel is a famous Austrian dessert that has become popular in Germany, known for its flaky pastry and spiced apple filling."
     },
     {
         "country": "Germany",
         "dish": "Käsespätzle",
-        "history": "Käsespätzle is a comforting German dish made with Spätzle and melted cheese, similar to macaroni and cheese but with a unique regional twist.",
-        "origin": "Swabia, Germany",
         "recipe": {
             "ingredients": [
                 "250g Spätzle (see recipe above)",
@@ -758,13 +756,13 @@
                 "Step 4: Bake at 180°C (350°F) for 10-15 minutes until cheese is melted and bubbly.",
                 "Step 5: Top with caramelized onions and garnish with chopped chives before serving."
             ]
-        }
+        },
+        "origin": "Swabia, Germany",
+        "history": "Käsespätzle is a comforting German dish made with Spätzle and melted cheese, similar to macaroni and cheese but with a unique regional twist."
     },
     {
         "country": "Greece",
         "dish": "Moussaka",
-        "history": "Moussaka is a traditional Greek casserole, known for its layers of eggplant, spiced meat sauce, and creamy béchamel, with influences from Middle Eastern cuisine.",
-        "origin": "Greece",
         "recipe": {
             "ingredients": [
                 "2 large eggplants, sliced",
@@ -792,13 +790,13 @@
                 "Step 6: In a baking dish, layer eggplant slices, meat sauce, and béchamel sauce.",
                 "Step 7: Bake for 45-50 minutes until golden brown and bubbling. Let cool slightly before serving."
             ]
-        }
+        },
+        "origin": "Greece",
+        "history": "Moussaka is a traditional Greek casserole, known for its layers of eggplant, spiced meat sauce, and creamy béchamel, with influences from Middle Eastern cuisine."
     },
     {
         "country": "Greece",
         "dish": "Souvlaki",
-        "history": "Souvlaki is a popular Greek street food consisting of grilled meat skewers, often served with pita and tzatziki. It's a staple of Greek fast food and barbecue culture.",
-        "origin": "Greece",
         "recipe": {
             "ingredients": [
                 "500g pork or chicken, cut into cubes",
@@ -816,13 +814,13 @@
                 "Step 4: Grill over medium heat for 8-10 minutes, turning occasionally, until cooked through.",
                 "Step 5: Serve with pita bread and tzatziki sauce."
             ]
-        }
+        },
+        "origin": "Greece",
+        "history": "Souvlaki is a popular Greek street food consisting of grilled meat skewers, often served with pita and tzatziki. It's a staple of Greek fast food and barbecue culture."
     },
     {
         "country": "Greece",
         "dish": "Spanakopita",
-        "history": "Spanakopita is a savory Greek pastry made with spinach and feta cheese wrapped in crispy phyllo dough, traditionally enjoyed as a snack or appetizer.",
-        "origin": "Greece",
         "recipe": {
             "ingredients": [
                 "500g fresh spinach, chopped",
@@ -843,13 +841,13 @@
                 "Step 6: Spread the spinach mixture over the phyllo dough, then top with remaining 6 sheets of phyllo, brushing each with oil.",
                 "Step 7: Bake for 30-35 minutes until golden and crisp. Cool slightly before serving."
             ]
-        }
+        },
+        "origin": "Greece",
+        "history": "Spanakopita is a savory Greek pastry made with spinach and feta cheese wrapped in crispy phyllo dough, traditionally enjoyed as a snack or appetizer."
     },
     {
         "country": "Greece",
         "dish": "Tzatziki",
-        "history": "Tzatziki is a refreshing Greek dip made from yogurt, cucumber, and garlic, often served as an appetizer or accompaniment to grilled meats.",
-        "origin": "Greece",
         "recipe": {
             "ingredients": [
                 "500g Greek yogurt",
@@ -865,13 +863,13 @@
                 "Step 2: Mix well and season with salt and pepper.",
                 "Step 3: Chill in the refrigerator for at least 1 hour before serving."
             ]
-        }
+        },
+        "origin": "Greece",
+        "history": "Tzatziki is a refreshing Greek dip made from yogurt, cucumber, and garlic, often served as an appetizer or accompaniment to grilled meats."
     },
     {
         "country": "Greece",
         "dish": "Dolmades",
-        "history": "Dolmades are grape leaves stuffed with a savory mixture of rice, meat, and spices, traditionally enjoyed as a part of Greek mezze or as a main dish.",
-        "origin": "Greece",
         "recipe": {
             "ingredients": [
                 "1 jar grape leaves, drained",
@@ -894,13 +892,13 @@
                 "Step 5: Place dolmades seam side down in a pot, cover with water, and add lemon juice.",
                 "Step 6: Simmer for 30-40 minutes until rice is cooked and leaves are tender."
             ]
-        }
+        },
+        "origin": "Greece",
+        "history": "Dolmades are grape leaves stuffed with a savory mixture of rice, meat, and spices, traditionally enjoyed as a part of Greek mezze or as a main dish."
     },
     {
         "country": "Greece",
         "dish": "Gyro",
-        "history": "Gyro is a popular Greek street food made with seasoned, grilled meat, usually served in pita bread with fresh vegetables and tzatziki sauce.",
-        "origin": "Greece",
         "recipe": {
             "ingredients": [
                 "500g pork or chicken, thinly sliced",
@@ -916,13 +914,13 @@
                 "Step 2: Grill or pan-fry the meat over medium heat until cooked through and crispy.",
                 "Step 3: Slice thinly and serve in pita bread with tzatziki sauce."
             ]
-        }
+        },
+        "origin": "Greece",
+        "history": "Gyro is a popular Greek street food made with seasoned, grilled meat, usually served in pita bread with fresh vegetables and tzatziki sauce."
     },
     {
         "country": "Greece",
         "dish": "Saganaki",
-        "history": "Saganaki is a Greek appetizer featuring fried cheese, typically enjoyed with a squeeze of lemon juice. It's named after the small frying pan used to cook it.",
-        "origin": "Greece",
         "recipe": {
             "ingredients": [
                 "200g Kasseri or other Greek cheese, sliced",
@@ -938,13 +936,13 @@
                 "Step 3: Fry the cheese slices until golden brown and crispy, about 2 minutes per side.",
                 "Step 4: Drain on paper towels and serve with lemon wedges."
             ]
-        }
+        },
+        "origin": "Greece",
+        "history": "Saganaki is a Greek appetizer featuring fried cheese, typically enjoyed with a squeeze of lemon juice. It's named after the small frying pan used to cook it."
     },
     {
         "country": "Greece",
         "dish": "Fasolada",
-        "history": "Fasolada is a traditional Greek bean soup, often considered a national dish. It's hearty and nutritious, typically enjoyed during cooler months.",
-        "origin": "Greece",
         "recipe": {
             "ingredients": [
                 "1 cup dried beans (such as cannellini or kidney beans), soaked overnight",
@@ -965,13 +963,13 @@
                 "Step 4: Add cooked beans and simmer for 20 minutes.",
                 "Step 5: Garnish with chopped parsley before serving."
             ]
-        }
+        },
+        "origin": "Greece",
+        "history": "Fasolada is a traditional Greek bean soup, often considered a national dish. It's hearty and nutritious, typically enjoyed during cooler months."
     },
     {
         "country": "Greece",
         "dish": "Baklava",
-        "history": "Baklava is a sweet pastry made with layers of phyllo dough, nuts, and honey, known for its rich, sweet flavor and flaky texture.",
-        "origin": "Greece",
         "recipe": {
             "ingredients": [
                 "250g phyllo dough",
@@ -992,13 +990,13 @@
                 "Step 6: In a saucepan, combine sugar, water, and honey. Bring to a boil, then simmer for 10 minutes.",
                 "Step 7: Pour the hot syrup over the baked baklava. Let cool before serving."
             ]
-        }
+        },
+        "origin": "Greece",
+        "history": "Baklava is a sweet pastry made with layers of phyllo dough, nuts, and honey, known for its rich, sweet flavor and flaky texture."
     },
     {
         "country": "Greece",
         "dish": "Horiatiki (Greek Salad)",
-        "history": "Horiatiki, or Greek Salad, is a traditional Greek salad featuring fresh vegetables, feta cheese, and olives, typically enjoyed as a refreshing appetizer or side dish.",
-        "origin": "Greece",
         "recipe": {
             "ingredients": [
                 "4 ripe tomatoes, cut into wedges",
@@ -1015,13 +1013,13 @@
                 "Step 2: Drizzle with olive oil and sprinkle with oregano, salt, and pepper.",
                 "Step 3: Toss gently to combine and serve immediately."
             ]
-        }
+        },
+        "origin": "Greece",
+        "history": "Horiatiki, or Greek Salad, is a traditional Greek salad featuring fresh vegetables, feta cheese, and olives, typically enjoyed as a refreshing appetizer or side dish."
     },
     {
         "country": "Portugal",
         "dish": "Bacalhau à Brás",
-        "history": "Bacalhau à Brás is a traditional Portuguese dish made with shredded cod, potatoes, and eggs. It's a classic way to prepare cod, which is a staple in Portuguese cuisine.",
-        "origin": "Portugal",
         "recipe": {
             "ingredients": [
                 "500g salt cod (bacalhau), desalted and shredded",
@@ -1042,13 +1040,13 @@
                 "Step 5: Pour in the beaten eggs and cook, stirring gently, until eggs are just set.",
                 "Step 6: Season with salt and pepper, garnish with olives and parsley, and serve."
             ]
-        }
+        },
+        "origin": "Portugal",
+        "history": "Bacalhau à Brás is a traditional Portuguese dish made with shredded cod, potatoes, and eggs. It's a classic way to prepare cod, which is a staple in Portuguese cuisine."
     },
     {
         "country": "Portugal",
         "dish": "Caldo Verde",
-        "history": "Caldo Verde is a traditional Portuguese soup made with kale, potatoes, and chorizo. It's a comforting and hearty dish, often enjoyed as a starter or light meal.",
-        "origin": "Portugal",
         "recipe": {
             "ingredients": [
                 "1 onion, chopped",
@@ -1068,13 +1066,13 @@
                 "Step 5: Stir in the kale and chorizo and cook for 5 minutes until kale is wilted.",
                 "Step 6: Season with salt and pepper and serve hot."
             ]
-        }
+        },
+        "origin": "Portugal",
+        "history": "Caldo Verde is a traditional Portuguese soup made with kale, potatoes, and chorizo. It's a comforting and hearty dish, often enjoyed as a starter or light meal."
     },
     {
         "country": "Portugal",
         "dish": "Bacalhau à Gomes de Sá",
-        "history": "Bacalhau à Gomes de Sá is a traditional Portuguese dish made with salt cod, potatoes, and onions. It's named after its creator, José Gomes de Sá, a Portuguese restaurateur.",
-        "origin": "Portugal",
         "recipe": {
             "ingredients": [
                 "500g salt cod (bacalhau), desalted and flaked",
@@ -1094,13 +1092,13 @@
                 "Step 4: Bake for 30 minutes until potatoes are tender.",
                 "Step 5: Garnish with olives, parsley, and sliced hard-boiled eggs before serving."
             ]
-        }
+        },
+        "origin": "Portugal",
+        "history": "Bacalhau à Gomes de Sá is a traditional Portuguese dish made with salt cod, potatoes, and onions. It's named after its creator, José Gomes de Sá, a Portuguese restaurateur."
     },
     {
         "country": "Portugal",
         "dish": "Arroz de Marisco",
-        "history": "Arroz de Marisco is a Portuguese seafood rice dish, often enjoyed as a hearty and flavorful meal. It's a celebration of the rich maritime resources of Portugal.",
-        "origin": "Portugal",
         "recipe": {
             "ingredients": [
                 "200g shrimp, peeled and deveined",
@@ -1124,13 +1122,13 @@
                 "Step 4: Stir in the seafood and cook for an additional 10 minutes until cooked through.",
                 "Step 5: Season with salt and pepper, garnish with parsley, and serve."
             ]
-        }
+        },
+        "origin": "Portugal",
+        "history": "Arroz de Marisco is a Portuguese seafood rice dish, often enjoyed as a hearty and flavorful meal. It's a celebration of the rich maritime resources of Portugal."
     },
     {
         "country": "Portugal",
         "dish": "Pasteis de Nata",
-        "history": "Pasteis de Nata, or Portuguese custard tarts, are a beloved Portuguese pastry with a crisp pastry shell and creamy custard filling. They are often enjoyed with a sprinkle of cinnamon and powdered sugar.",
-        "origin": "Portugal",
         "recipe": {
             "ingredients": [
                 "1 sheet puff pastry",
@@ -1152,13 +1150,13 @@
                 "Step 7: Pour custard into the pastry cups and bake for 15-20 minutes until golden and puffed.",
                 "Step 8: Dust with powdered sugar before serving."
             ]
-        }
+        },
+        "origin": "Portugal",
+        "history": "Pasteis de Nata, or Portuguese custard tarts, are a beloved Portuguese pastry with a crisp pastry shell and creamy custard filling. They are often enjoyed with a sprinkle of cinnamon and powdered sugar."
     },
     {
         "country": "Portugal",
         "dish": "Feijoada",
-        "history": "Feijoada is a traditional Portuguese stew made with black beans, various meats, and spices. It's a hearty and flavorful dish, often enjoyed as a communal meal.",
-        "origin": "Portugal",
         "recipe": {
             "ingredients": [
                 "300g black beans, soaked overnight",
@@ -1180,13 +1178,13 @@
                 "Step 4: Cover with water and simmer for 1.5-2 hours until beans and meat are tender.",
                 "Step 5: Serve over rice."
             ]
-        }
+        },
+        "origin": "Portugal",
+        "history": "Feijoada is a traditional Portuguese stew made with black beans, various meats, and spices. It's a hearty and flavorful dish, often enjoyed as a communal meal."
     },
     {
         "country": "Portugal",
         "dish": "Cataplana de Mariscos",
-        "history": "Cataplana de Mariscos is a traditional Portuguese seafood stew cooked in a cataplana, a clam-shaped copper pot. It highlights the rich seafood tradition of Portugal.",
-        "origin": "Portugal",
         "recipe": {
             "ingredients": [
                 "200g shrimp, peeled and deveined",
@@ -1208,13 +1206,13 @@
                 "Step 3: Add seafood and cook until shells open and shrimp are cooked through.",
                 "Step 4: Season with salt and pepper, garnish with parsley, and serve."
             ]
-        }
+        },
+        "origin": "Portugal",
+        "history": "Cataplana de Mariscos is a traditional Portuguese seafood stew cooked in a cataplana, a clam-shaped copper pot. It highlights the rich seafood tradition of Portugal."
     },
     {
         "country": "Portugal",
         "dish": "Prego no Pão",
-        "history": "Prego no Pão is a Portuguese sandwich made with marinated and grilled beef, served in a crusty roll. It's a popular street food and casual meal in Portugal.",
-        "origin": "Portugal",
         "recipe": {
             "ingredients": [
                 "500g beef steak, thinly sliced",
@@ -1230,13 +1228,13 @@
                 "Step 3: Toast the bread rolls and fill with the cooked beef.",
                 "Step 4: Garnish with chopped parsley and serve."
             ]
-        }
+        },
+        "origin": "Portugal",
+        "history": "Prego no Pão is a Portuguese sandwich made with marinated and grilled beef, served in a crusty roll. It's a popular street food and casual meal in Portugal."
     },
     {
         "country": "Portugal",
         "dish": "Bacalhau com Natas",
-        "history": "Bacalhau com Natas is a Portuguese casserole made with salt cod, potatoes, and a creamy sauce. It's a rich and comforting dish, showcasing the versatility of bacalhau.",
-        "origin": "Portugal",
         "recipe": {
             "ingredients": [
                 "500g salt cod (bacalhau), desalted and flaked",
@@ -1257,13 +1255,13 @@
                 "Step 5: In a bowl, mix cream and eggs, then pour over the cod and potato mixture.",
                 "Step 6: Transfer to a baking dish, top with grated cheese, and bake for 30-35 minutes until golden and bubbling."
             ]
-        }
+        },
+        "origin": "Portugal",
+        "history": "Bacalhau com Natas is a Portuguese casserole made with salt cod, potatoes, and a creamy sauce. It's a rich and comforting dish, showcasing the versatility of bacalhau."
     },
     {
         "country": "Portugal",
         "dish": "Francesinha",
-        "history": "Francesinha, or 'Little Frenchie', is a Portuguese sandwich featuring layers of meat, cheese, and a rich tomato-beef sauce. It's a hearty and indulgent dish, often enjoyed with a fried egg on top.",
-        "origin": "Portugal",
         "recipe": {
             "ingredients": [
                 "4 slices of bread",
@@ -1287,13 +1285,13 @@
                 "Step 5: Pour sauce over the sandwich and bake for 15 minutes at 200°C (400°F).",
                 "Step 6: Fry an egg if desired and place on top of the sandwich before serving."
             ]
-        }
+        },
+        "origin": "Portugal",
+        "history": "Francesinha, or 'Little Frenchie', is a Portuguese sandwich featuring layers of meat, cheese, and a rich tomato-beef sauce. It's a hearty and indulgent dish, often enjoyed with a fried egg on top."
     },
     {
         "country": "Sweden",
         "dish": "Köttbullar (Swedish Meatballs)",
-        "history": "Köttbullar, or Swedish meatballs, are a traditional Swedish dish commonly served with lingonberry sauce and creamy mashed potatoes. They are a staple of Swedish cuisine and are often enjoyed during holidays and special occasions.",
-        "origin": "Sweden",
         "recipe": {
             "ingredients": [
                 "500g ground beef",
@@ -1315,13 +1313,13 @@
                 "Step 4: Heat butter in a pan over medium heat and fry the meatballs until browned and cooked through, about 10 minutes.",
                 "Step 5: Serve with lingonberry sauce and creamy mashed potatoes."
             ]
-        }
+        },
+        "origin": "Sweden",
+        "history": "Köttbullar, or Swedish meatballs, are a traditional Swedish dish commonly served with lingonberry sauce and creamy mashed potatoes. They are a staple of Swedish cuisine and are often enjoyed during holidays and special occasions."
     },
     {
         "country": "Sweden",
         "dish": "Gravlax",
-        "history": "Gravlax is a traditional Scandinavian dish made from raw salmon cured with a mixture of salt, sugar, and dill. It is commonly served with mustard sauce and crispbread.",
-        "origin": "Sweden",
         "recipe": {
             "ingredients": [
                 "500g salmon fillet, skin on",
@@ -1338,13 +1336,13 @@
                 "Step 4: Refrigerate for 48 hours, turning the salmon occasionally.",
                 "Step 5: Rinse the salmon under cold water, pat dry, and slice thinly to serve."
             ]
-        }
+        },
+        "origin": "Sweden",
+        "history": "Gravlax is a traditional Scandinavian dish made from raw salmon cured with a mixture of salt, sugar, and dill. It is commonly served with mustard sauce and crispbread."
     },
     {
         "country": "Sweden",
         "dish": "Kanelbullar (Cinnamon Buns)",
-        "history": "Kanelbullar, or Swedish cinnamon buns, are a beloved Swedish pastry enjoyed with coffee or tea. They are often made for special occasions and are a popular part of Swedish fika culture.",
-        "origin": "Sweden",
         "recipe": {
             "ingredients": [
                 "500g all-purpose flour",
@@ -1367,13 +1365,13 @@
                 "Step 5: Let rise for another 30 minutes. Brush with beaten egg and sprinkle with pearl sugar.",
                 "Step 6: Bake at 225°C (435°F) for 8-10 minutes until golden brown."
             ]
-        }
+        },
+        "origin": "Sweden",
+        "history": "Kanelbullar, or Swedish cinnamon buns, are a beloved Swedish pastry enjoyed with coffee or tea. They are often made for special occasions and are a popular part of Swedish fika culture."
     },
     {
         "country": "Sweden",
         "dish": "Sill (Pickled Herring)",
-        "history": "Sill, or pickled herring, is a traditional Swedish dish commonly served during holidays and special occasions. It is often enjoyed as part of the Swedish smorgasbord, or buffet.",
-        "origin": "Sweden",
         "recipe": {
             "ingredients": [
                 "4-6 pickled herring fillets",
@@ -1393,13 +1391,13 @@
                 "Step 4: Seal the jar and refrigerate for at least 3 days before serving.",
                 "Step 5: Garnish with fresh dill before serving."
             ]
-        }
+        },
+        "origin": "Sweden",
+        "history": "Sill, or pickled herring, is a traditional Swedish dish commonly served during holidays and special occasions. It is often enjoyed as part of the Swedish smorgasbord, or buffet."
     },
     {
         "country": "Sweden",
         "dish": "Raggmunk (Potato Pancakes)",
-        "history": "Raggmunk are crispy potato pancakes, a traditional Swedish dish often enjoyed with lingonberry sauce and sour cream. They are a comforting and hearty part of Swedish cuisine.",
-        "origin": "Sweden",
         "recipe": {
             "ingredients": [
                 "500g potatoes, peeled and grated",
@@ -1417,13 +1415,13 @@
                 "Step 4: Fry until golden brown and crispy on both sides, about 3-4 minutes per side.",
                 "Step 5: Serve hot with lingonberry sauce."
             ]
-        }
+        },
+        "origin": "Sweden",
+        "history": "Raggmunk are crispy potato pancakes, a traditional Swedish dish often enjoyed with lingonberry sauce and sour cream. They are a comforting and hearty part of Swedish cuisine."
     },
     {
         "country": "Sweden",
         "dish": "Janssons Frestelse (Jansson's Temptation)",
-        "history": "Janssons Frestelse is a classic Swedish casserole made with potatoes, anchovies, and cream. It is a popular dish during Christmas and other festive occasions.",
-        "origin": "Sweden",
         "recipe": {
             "ingredients": [
                 "500g potatoes, peeled and thinly sliced",
@@ -1441,13 +1439,13 @@
                 "Step 4: Dot with butter and sprinkle breadcrumbs on top.",
                 "Step 5: Bake for 45-50 minutes until potatoes are tender and top is golden brown."
             ]
-        }
+        },
+        "origin": "Sweden",
+        "history": "Janssons Frestelse is a classic Swedish casserole made with potatoes, anchovies, and cream. It is a popular dish during Christmas and other festive occasions."
     },
     {
         "country": "Sweden",
         "dish": "Kåldolmar (Stuffed Cabbage Rolls)",
-        "history": "Kåldolmar are Swedish stuffed cabbage rolls, traditionally made with a mixture of ground meats and rice, and baked in a savory sauce. They are often enjoyed as a hearty main dish.",
-        "origin": "Sweden",
         "recipe": {
             "ingredients": [
                 "1 large cabbage",
@@ -1469,13 +1467,13 @@
                 "Step 5: Place rolls in a baking dish, pour beef broth and tomato sauce over them.",
                 "Step 6: Cover and bake at 180°C (350°F) for 1 hour."
             ]
-        }
+        },
+        "origin": "Sweden",
+        "history": "Kåldolmar are Swedish stuffed cabbage rolls, traditionally made with a mixture of ground meats and rice, and baked in a savory sauce. They are often enjoyed as a hearty main dish."
     },
     {
         "country": "Sweden",
         "dish": "Prinsesstårta (Princess Cake)",
-        "history": "Prinsesstårta, or Princess Cake, is a classic Swedish dessert made with sponge cake, raspberry jam, whipped cream, and marzipan. It is a popular choice for celebrations and special occasions.",
-        "origin": "Sweden",
         "recipe": {
             "ingredients": [
                 "For the sponge cake:",
@@ -1501,13 +1499,13 @@
                 "Step 6: Place the top layer of cake on top and cover with marzipan, colored green.",
                 "Step 7: Dust with powdered sugar and decorate as desired."
             ]
-        }
+        },
+        "origin": "Sweden",
+        "history": "Prinsesstårta, or Princess Cake, is a classic Swedish dessert made with sponge cake, raspberry jam, whipped cream, and marzipan. It is a popular choice for celebrations and special occasions."
     },
     {
         "country": "Sweden",
         "dish": "Silltårta (Herring Cake)",
-        "history": "Silltårta is a traditional Swedish herring cake made with pickled herring and a creamy sauce. It is often served as a part of the Swedish smorgasbord or during special occasions.",
-        "origin": "Sweden",
         "recipe": {
             "ingredients": [
                 "200g pickled herring, chopped",
@@ -1525,13 +1523,13 @@
                 "Step 3: Chill in the refrigerator for at least 1 hour before serving.",
                 "Step 4: Serve on sliced rye bread."
             ]
-        }
+        },
+        "origin": "Sweden",
+        "history": "Silltårta is a traditional Swedish herring cake made with pickled herring and a creamy sauce. It is often served as a part of the Swedish smorgasbord or during special occasions."
     },
     {
         "country": "Sweden",
         "dish": "Rödbetssallad (Beetroot Salad)",
-        "history": "Rödbetssallad, or beetroot salad, is a popular Swedish dish made with beetroots, potatoes, and a creamy dressing. It is commonly served as a side dish during festive meals and celebrations.",
-        "origin": "Sweden",
         "recipe": {
             "ingredients": [
                 "500g cooked beetroots, peeled and diced",
@@ -1548,13 +1546,13 @@
                 "Step 3: Season with salt and pepper.",
                 "Step 4: Garnish with chopped fresh dill before serving."
             ]
-        }
+        },
+        "origin": "Sweden",
+        "history": "Rödbetssallad, or beetroot salad, is a popular Swedish dish made with beetroots, potatoes, and a creamy dressing. It is commonly served as a side dish during festive meals and celebrations."
     },
     {
         "country": "Hungary",
         "dish": "Gulyás (Goulash)",
-        "history": "Gulyás, or goulash, is a traditional Hungarian stew made with beef, paprika, and vegetables. It has a rich history as a staple dish in Hungarian cuisine and is enjoyed across Central Europe.",
-        "origin": "Hungary",
         "recipe": {
             "ingredients": [
                 "500g beef chuck, cut into cubes",
@@ -1578,13 +1576,13 @@
                 "Step 5: Add potatoes and cook until tender, about 20 minutes.",
                 "Step 6: Season with salt and pepper. Garnish with chopped parsley before serving."
             ]
-        }
+        },
+        "origin": "Hungary",
+        "history": "Gulyás, or goulash, is a traditional Hungarian stew made with beef, paprika, and vegetables. It has a rich history as a staple dish in Hungarian cuisine and is enjoyed across Central Europe."
     },
     {
         "country": "Hungary",
         "dish": "Pörkölt (Hungarian Stew)",
-        "history": "Pörkölt is a rich and flavorful Hungarian stew made with pork and paprika. It is often served with dumplings or potatoes and is a beloved dish in Hungarian homes.",
-        "origin": "Hungary",
         "recipe": {
             "ingredients": [
                 "500g pork shoulder, cut into cubes",
@@ -1605,13 +1603,13 @@
                 "Step 4: Pour in beef broth and bring to a boil. Reduce heat and simmer for 1 hour.",
                 "Step 5: Season with salt and pepper. Garnish with chopped parsley before serving."
             ]
-        }
+        },
+        "origin": "Hungary",
+        "history": "Pörkölt is a rich and flavorful Hungarian stew made with pork and paprika. It is often served with dumplings or potatoes and is a beloved dish in Hungarian homes."
     },
     {
         "country": "Hungary",
         "dish": "Lángos",
-        "history": "Lángos is a popular Hungarian street food, a deep-fried flatbread typically enjoyed with garlic, sour cream, and cheese. It is a staple at fairs and markets in Hungary.",
-        "origin": "Hungary",
         "recipe": {
             "ingredients": [
                 "500g all-purpose flour",
@@ -1630,13 +1628,13 @@
                 "Step 4: Divide dough into balls and flatten into discs. Fry in hot oil until golden brown.",
                 "Step 5: Rub with minced garlic and top with sour cream and grated cheese."
             ]
-        }
+        },
+        "origin": "Hungary",
+        "history": "Lángos is a popular Hungarian street food, a deep-fried flatbread typically enjoyed with garlic, sour cream, and cheese. It is a staple at fairs and markets in Hungary."
     },
     {
         "country": "Hungary",
         "dish": "Töltött Káposzta (Stuffed Cabbage Rolls)",
-        "history": "Töltött Káposzta, or stuffed cabbage rolls, is a traditional Hungarian dish made with cabbage leaves filled with a pork and rice mixture. It is a hearty and comforting dish often enjoyed during holidays and family gatherings.",
-        "origin": "Hungary",
         "recipe": {
             "ingredients": [
                 "1 large cabbage",
@@ -1656,13 +1654,13 @@
                 "Step 4: Arrange rolls in a baking dish. Pour tomato sauce and beef broth over them.",
                 "Step 5: Cover and bake at 180°C (350°F) for 1.5 hours."
             ]
-        }
+        },
+        "origin": "Hungary",
+        "history": "Töltött Káposzta, or stuffed cabbage rolls, is a traditional Hungarian dish made with cabbage leaves filled with a pork and rice mixture. It is a hearty and comforting dish often enjoyed during holidays and family gatherings."
     },
     {
         "country": "Hungary",
         "dish": "Halászlé (Fisherman’s Soup)",
-        "history": "Halászlé, or Fisherman’s Soup, is a traditional Hungarian soup made with freshwater fish and paprika. It is a popular dish in Hungary, especially in regions with a strong fishing tradition.",
-        "origin": "Hungary",
         "recipe": {
             "ingredients": [
                 "500g freshwater fish (such as carp), cleaned and cut into pieces",
@@ -1683,13 +1681,13 @@
                 "Step 4: Reduce heat and simmer for 30 minutes.",
                 "Step 5: Season with salt and pepper. Garnish with chopped parsley before serving."
             ]
-        }
+        },
+        "origin": "Hungary",
+        "history": "Halászlé, or Fisherman’s Soup, is a traditional Hungarian soup made with freshwater fish and paprika. It is a popular dish in Hungary, especially in regions with a strong fishing tradition."
     },
     {
         "country": "Hungary",
         "dish": "Pálinka (Hungarian Fruit Brandy)",
-        "history": "Pálinka is a traditional Hungarian fruit brandy made from fermented fruit. It is a cherished part of Hungarian culture and is often enjoyed as a digestif or during special occasions.",
-        "origin": "Hungary",
         "recipe": {
             "ingredients": [
                 "2 kg ripe fruit (such as plums, apricots, or pears)",
@@ -1704,13 +1702,13 @@
                 "Step 4: Cover and let ferment in a warm place for 2-3 weeks, stirring occasionally.",
                 "Step 5: Strain the liquid and distill to obtain pálinka. Age for several months for best flavor."
             ]
-        }
+        },
+        "origin": "Hungary",
+        "history": "Pálinka is a traditional Hungarian fruit brandy made from fermented fruit. It is a cherished part of Hungarian culture and is often enjoyed as a digestif or during special occasions."
     },
     {
         "country": "Hungary",
         "dish": "Lecso (Hungarian Vegetable Stew)",
-        "history": "Lecso is a hearty Hungarian vegetable stew made with bell peppers, tomatoes, and sausages. It is a versatile dish that can be served on its own or as a side dish.",
-        "origin": "Hungary",
         "recipe": {
             "ingredients": [
                 "3 bell peppers, chopped",
@@ -1729,13 +1727,13 @@
                 "Step 3: Add sausages and cook until heated through.",
                 "Step 4: Season with salt and pepper. Garnish with chopped parsley before serving."
             ]
-        }
+        },
+        "origin": "Hungary",
+        "history": "Lecso is a hearty Hungarian vegetable stew made with bell peppers, tomatoes, and sausages. It is a versatile dish that can be served on its own or as a side dish."
     },
     {
         "country": "Hungary",
         "dish": "Dobos Torte (Dobos Cake)",
-        "history": "Dobos Torte is a classic Hungarian cake known for its layers of sponge cake and rich chocolate buttercream. It is named after Hungarian pastry chef József C. Dobos, who created the cake in the 19th century.",
-        "origin": "Hungary",
         "recipe": {
             "ingredients": [
                 "For the cake layers:",
@@ -1761,13 +1759,13 @@
                 "Step 6: Frost the top and sides with remaining filling and chill.",
                 "Step 7: Decorate with melted chocolate and caramelized sugar slices."
             ]
-        }
+        },
+        "origin": "Hungary",
+        "history": "Dobos Torte is a classic Hungarian cake known for its layers of sponge cake and rich chocolate buttercream. It is named after Hungarian pastry chef József C. Dobos, who created the cake in the 19th century."
     },
     {
         "country": "Hungary",
         "dish": "Jókai Bableves (Jókai Bean Soup)",
-        "history": "Jókai Bableves is a hearty Hungarian bean soup named after the famous Hungarian author Mór Jókai. It features beans, smoked pork, and paprika, making it a comforting and flavorful dish.",
-        "origin": "Hungary",
         "recipe": {
             "ingredients": [
                 "200g dried beans, soaked overnight",
@@ -1789,13 +1787,13 @@
                 "Step 5: Add beans, pork ribs, and beef broth. Bring to a boil, then simmer for 1 hour.",
                 "Step 6: Season with salt and pepper. Garnish with chopped parsley before serving."
             ]
-        }
+        },
+        "origin": "Hungary",
+        "history": "Jókai Bableves is a hearty Hungarian bean soup named after the famous Hungarian author Mór Jókai. It features beans, smoked pork, and paprika, making it a comforting and flavorful dish."
     },
     {
         "country": "Hungary",
         "dish": "Kürtőskalács (Chimney Cake)",
-        "history": "Kürtőskalács, or chimney cake, is a traditional Hungarian sweet pastry cooked on a rotating spit. It is crispy on the outside and soft on the inside, often enjoyed at fairs and markets.",
-        "origin": "Hungary",
         "recipe": {
             "ingredients": [
                 "500g all-purpose flour",
@@ -1815,13 +1813,13 @@
                 "Step 5: Bake at 200°C (390°F) for 15-20 minutes until golden brown.",
                 "Step 6: Brush with melted butter and coat with cinnamon sugar."
             ]
-        }
+        },
+        "origin": "Hungary",
+        "history": "Kürtőskalács, or chimney cake, is a traditional Hungarian sweet pastry cooked on a rotating spit. It is crispy on the outside and soft on the inside, often enjoyed at fairs and markets."
     },
     {
         "country": "Poland",
         "dish": "Pierogi (Dumplings)",
-        "history": "Pierogi are traditional Polish dumplings that can be filled with a variety of ingredients. They are a beloved dish in Polish cuisine, often served during holidays and special occasions.",
-        "origin": "Poland",
         "recipe": {
             "ingredients": [
                 "For the dough:",
@@ -1844,13 +1842,13 @@
                 "Step 4: Roll out the dough and cut into circles. Place a spoonful of filling in the center of each circle. Fold and seal edges.",
                 "Step 5: Boil pierogi in salted water until they float to the surface. Fry in butter until golden brown."
             ]
-        }
+        },
+        "origin": "Poland",
+        "history": "Pierogi are traditional Polish dumplings that can be filled with a variety of ingredients. They are a beloved dish in Polish cuisine, often served during holidays and special occasions."
     },
     {
         "country": "Poland",
         "dish": "Bigos (Hunter's Stew)",
-        "history": "Bigos, or Hunter's Stew, is a hearty Polish dish made with sauerkraut, cabbage, and a variety of meats. It is often enjoyed during the colder months and is a staple in Polish cuisine.",
-        "origin": "Poland",
         "recipe": {
             "ingredients": [
                 "500g sauerkraut, drained",
@@ -1873,13 +1871,13 @@
                 "Step 4: Bring to a boil, then reduce heat and simmer for 1.5 hours, stirring occasionally.",
                 "Step 5: Adjust seasoning as needed and serve hot."
             ]
-        }
+        },
+        "origin": "Poland",
+        "history": "Bigos, or Hunter's Stew, is a hearty Polish dish made with sauerkraut, cabbage, and a variety of meats. It is often enjoyed during the colder months and is a staple in Polish cuisine."
     },
     {
         "country": "Poland",
         "dish": "Żurek (Sour Rye Soup)",
-        "history": "Żurek is a traditional Polish soup made from sour rye flour and often served with sausage and hard-boiled eggs. It is a popular dish during Easter and other festive occasions.",
-        "origin": "Poland",
         "recipe": {
             "ingredients": [
                 "500ml sour rye soup starter (żur)",
@@ -1900,13 +1898,13 @@
                 "Step 4: Stir in sour rye soup starter and simmer for 30 minutes.",
                 "Step 5: Season with salt and pepper. Serve with sliced hard-boiled eggs."
             ]
-        }
+        },
+        "origin": "Poland",
+        "history": "Żurek is a traditional Polish soup made from sour rye flour and often served with sausage and hard-boiled eggs. It is a popular dish during Easter and other festive occasions."
     },
     {
         "country": "Poland",
         "dish": "Gołąbki (Stuffed Cabbage Rolls)",
-        "history": "Gołąbki, or stuffed cabbage rolls, are a classic Polish dish made with cabbage leaves filled with a meat and rice mixture. They are a comforting and traditional meal often served during family gatherings.",
-        "origin": "Poland",
         "recipe": {
             "ingredients": [
                 "1 large cabbage",
@@ -1926,13 +1924,13 @@
                 "Step 4: Arrange rolls in a baking dish. Pour tomato sauce over them.",
                 "Step 5: Cover and bake at 180°C (350°F) for 1.5 hours."
             ]
-        }
+        },
+        "origin": "Poland",
+        "history": "Gołąbki, or stuffed cabbage rolls, are a classic Polish dish made with cabbage leaves filled with a meat and rice mixture. They are a comforting and traditional meal often served during family gatherings."
     },
     {
         "country": "Poland",
         "dish": "Placki Ziemniaczane (Potato Pancakes)",
-        "history": "Placki Ziemniaczane, or potato pancakes, are a popular Polish dish made from grated potatoes and onions. They are often served with sour cream or applesauce and are a beloved comfort food in Polish cuisine.",
-        "origin": "Poland",
         "recipe": {
             "ingredients": [
                 "500g potatoes, peeled and grated",
@@ -1950,13 +1948,13 @@
                 "Step 4: Drop spoonfuls of batter into the pan and flatten with a spatula. Fry until golden brown on both sides.",
                 "Step 5: Drain on paper towels and serve with sour cream and applesauce."
             ]
-        }
+        },
+        "origin": "Poland",
+        "history": "Placki Ziemniaczane, or potato pancakes, are a popular Polish dish made from grated potatoes and onions. They are often served with sour cream or applesauce and are a beloved comfort food in Polish cuisine."
     },
     {
         "country": "Poland",
         "dish": "Kopytka (Potato Dumplings)",
-        "history": "Kopytka, or potato dumplings, are a traditional Polish dish made from mashed potatoes and flour. They are often served with meat dishes or in a creamy sauce.",
-        "origin": "Poland",
         "recipe": {
             "ingredients": [
                 "500g potatoes, peeled and cubed",
@@ -1973,13 +1971,13 @@
                 "Step 4: Cook dumplings in boiling salted water until they float to the surface.",
                 "Step 5: Fry in butter until golden brown and garnish with chopped parsley."
             ]
-        }
+        },
+        "origin": "Poland",
+        "history": "Kopytka, or potato dumplings, are a traditional Polish dish made from mashed potatoes and flour. They are often served with meat dishes or in a creamy sauce."
     },
     {
         "country": "Poland",
         "dish": "Barszcz (Beet Soup)",
-        "history": "Barszcz is a traditional Polish beet soup known for its vibrant color and tangy flavor. It is a staple in Polish cuisine and is often served with sour cream and sometimes accompanied by pierogi.",
-        "origin": "Poland",
         "recipe": {
             "ingredients": [
                 "500g beets, peeled and grated",
@@ -1999,13 +1997,13 @@
                 "Step 4: Stir in vinegar, sugar, salt, and pepper.",
                 "Step 5: Serve hot with a dollop of sour cream."
             ]
-        }
+        },
+        "origin": "Poland",
+        "history": "Barszcz is a traditional Polish beet soup known for its vibrant color and tangy flavor. It is a staple in Polish cuisine and is often served with sour cream and sometimes accompanied by pierogi."
     },
     {
         "country": "Poland",
         "dish": "Żurek (Sour Rye Soup)",
-        "history": "Żurek is a traditional Polish soup made from sour rye flour and often served with sausage and hard-boiled eggs. It is a popular dish during Easter and other festive occasions.",
-        "origin": "Poland",
         "recipe": {
             "ingredients": [
                 "500ml sour rye starter (żur)",
@@ -2026,13 +2024,13 @@
                 "Step 4: Stir in sour rye starter and simmer for 30 minutes.",
                 "Step 5: Season with salt and pepper. Serve with sliced hard-boiled eggs."
             ]
-        }
+        },
+        "origin": "Poland",
+        "history": "Żurek is a traditional Polish soup made from sour rye flour and often served with sausage and hard-boiled eggs. It is a popular dish during Easter and other festive occasions."
     },
     {
         "country": "Poland",
         "dish": "Sernik (Cheesecake)",
-        "history": "Sernik, or Polish cheesecake, is a popular dessert made with cream cheese and often enjoyed during holidays and special occasions. It has a rich and creamy texture, and can be flavored with various ingredients.",
-        "origin": "Poland",
         "recipe": {
             "ingredients": [
                 "For the crust:",
@@ -2053,13 +2051,13 @@
                 "Step 4: Pour filling over the crust and bake for 50-60 minutes.",
                 "Step 5: Let cool completely before removing from the pan. Chill before serving."
             ]
-        }
+        },
+        "origin": "Poland",
+        "history": "Sernik, or Polish cheesecake, is a popular dessert made with cream cheese and often enjoyed during holidays and special occasions. It has a rich and creamy texture, and can be flavored with various ingredients."
     },
     {
         "country": "Poland",
         "dish": "Kielbasa (Polish Sausage)",
-        "history": "Kielbasa is a traditional Polish sausage that comes in many varieties. It is a staple in Polish cuisine and can be enjoyed grilled, smoked, or in soups and stews.",
-        "origin": "Poland",
         "recipe": {
             "ingredients": [
                 "1 kg pork shoulder, ground",
@@ -2076,13 +2074,13 @@
                 "Step 2: Stuff sausage casings with the meat mixture, if using. Twist into links and tie ends.",
                 "Step 3: Smoke or cook sausages according to your preference, either in a smoker or by simmering in water."
             ]
-        }
+        },
+        "origin": "Poland",
+        "history": "Kielbasa is a traditional Polish sausage that comes in many varieties. It is a staple in Polish cuisine and can be enjoyed grilled, smoked, or in soups and stews."
     },
     {
         "country": "Poland",
         "dish": "Mizeria (Cucumber Salad)",
-        "history": "Mizeria is a refreshing Polish cucumber salad made with sour cream and fresh dill. It is often served as a side dish or accompaniment to meat dishes.",
-        "origin": "Poland",
         "recipe": {
             "ingredients": [
                 "4 cucumbers, sliced",
@@ -2097,13 +2095,13 @@
                 "Step 2: In a separate bowl, mix sour cream, vinegar, sugar, dill, salt, and pepper.",
                 "Step 3: Toss cucumbers with the sour cream mixture and serve chilled."
             ]
-        }
+        },
+        "origin": "Poland",
+        "history": "Mizeria is a refreshing Polish cucumber salad made with sour cream and fresh dill. It is often served as a side dish or accompaniment to meat dishes."
     },
     {
         "country": "Belgium",
         "dish": "Moules-Frites (Mussels with Fries)",
-        "history": "Moules-Frites is a quintessential Belgian dish consisting of steamed mussels served with fries. It is popular throughout Belgium and is often enjoyed in bistros and brasseries.",
-        "origin": "Belgium",
         "recipe": {
             "ingredients": [
                 "For the mussels:",
@@ -2129,13 +2127,13 @@
                 "Step 5: Discard any mussels that do not open. Stir in parsley and season with salt and pepper.",
                 "Step 6: Serve mussels with fries on the side."
             ]
-        }
+        },
+        "origin": "Belgium",
+        "history": "Moules-Frites is a quintessential Belgian dish consisting of steamed mussels served with fries. It is popular throughout Belgium and is often enjoyed in bistros and brasseries."
     },
     {
         "country": "Belgium",
         "dish": "Carbonnade Flamande (Flemish Beef Stew)",
-        "history": "Carbonnade Flamande is a traditional Flemish beef stew made with Belgian beer. It is a rich and hearty dish, often served with fries or bread.",
-        "origin": "Belgium",
         "recipe": {
             "ingredients": [
                 "1 kg beef stew meat, cut into cubes",
@@ -2159,13 +2157,13 @@
                 "Step 5: Return beef to the pot, reduce heat, cover, and simmer for 2-3 hours, or until beef is tender.",
                 "Step 6: Season with salt and pepper before serving."
             ]
-        }
+        },
+        "origin": "Belgium",
+        "history": "Carbonnade Flamande is a traditional Flemish beef stew made with Belgian beer. It is a rich and hearty dish, often served with fries or bread."
     },
     {
         "country": "Belgium",
         "dish": "Stoofvlees (Belgian Beef Stew)",
-        "history": "Stoofvlees, or Belgian beef stew, is a classic dish known for its rich flavor from dark beer and slow cooking. It is a beloved comfort food in Belgian cuisine.",
-        "origin": "Belgium",
         "recipe": {
             "ingredients": [
                 "1 kg beef stew meat, cut into cubes",
@@ -2189,13 +2187,13 @@
                 "Step 5: Return beef to the pot, reduce heat, cover, and simmer for 2-3 hours, or until beef is tender.",
                 "Step 6: Season with salt and pepper before serving."
             ]
-        }
+        },
+        "origin": "Belgium",
+        "history": "Stoofvlees, or Belgian beef stew, is a classic dish known for its rich flavor from dark beer and slow cooking. It is a beloved comfort food in Belgian cuisine."
     },
     {
         "country": "Belgium",
         "dish": "Waffles",
-        "history": "Belgian waffles are known for their light, airy texture and deep pockets. They are enjoyed with a variety of toppings, such as fresh fruit, whipped cream, or syrup.",
-        "origin": "Belgium",
         "recipe": {
             "ingredients": [
                 "250g all-purpose flour",
@@ -2214,13 +2212,13 @@
                 "Step 4: Add wet ingredients to dry ingredients and mix until just combined.",
                 "Step 5: Pour batter into preheated waffle iron and cook according to manufacturer's instructions until golden brown."
             ]
-        }
+        },
+        "origin": "Belgium",
+        "history": "Belgian waffles are known for their light, airy texture and deep pockets. They are enjoyed with a variety of toppings, such as fresh fruit, whipped cream, or syrup."
     },
     {
         "country": "Belgium",
         "dish": "Moules à la Crème (Mussels in Cream)",
-        "history": "Moules à la Crème is a creamy version of the classic mussel dish, highlighting the richness of Belgian cuisine. It is often served with crusty bread.",
-        "origin": "Belgium",
         "recipe": {
             "ingredients": [
                 "1 kg mussels, cleaned and debearded",
@@ -2239,13 +2237,13 @@
                 "Step 4: Discard any mussels that do not open. Stir in cream and parsley.",
                 "Step 5: Season with salt and pepper. Serve hot."
             ]
-        }
+        },
+        "origin": "Belgium",
+        "history": "Moules à la Crème is a creamy version of the classic mussel dish, highlighting the richness of Belgian cuisine. It is often served with crusty bread."
     },
     {
         "country": "Belgium",
         "dish": "Endives au Gratin (Belgian Endive Gratin)",
-        "history": "Endives au Gratin is a classic Belgian dish featuring endives wrapped in ham and topped with a creamy cheese sauce. It is a comforting and flavorful dish often enjoyed in Belgian homes.",
-        "origin": "Belgium",
         "recipe": {
             "ingredients": [
                 "6 endives, trimmed and halved",
@@ -2265,13 +2263,13 @@
                 "Step 5: Stir in cheese, salt, pepper, and nutmeg.",
                 "Step 6: Place wrapped endives in a baking dish, pour sauce over them, and bake for 20-25 minutes until bubbly and golden."
             ]
-        }
+        },
+        "origin": "Belgium",
+        "history": "Endives au Gratin is a classic Belgian dish featuring endives wrapped in ham and topped with a creamy cheese sauce. It is a comforting and flavorful dish often enjoyed in Belgian homes."
     },
     {
         "country": "Belgium",
         "dish": "Tarte Tatin",
-        "history": "Tarte Tatin is a caramelized upside-down apple tart that is popular in Belgian dessert menus. Its rich caramel flavor and flaky pastry make it a delightful treat.",
-        "origin": "Belgium",
         "recipe": {
             "ingredients": [
                 "6-8 apples, peeled, cored, and halved",
@@ -2289,13 +2287,13 @@
                 "Step 5: Bake for 25-30 minutes until pastry is golden brown.",
                 "Step 6: Let cool slightly before inverting onto a plate."
             ]
-        }
+        },
+        "origin": "Belgium",
+        "history": "Tarte Tatin is a caramelized upside-down apple tart that is popular in Belgian dessert menus. Its rich caramel flavor and flaky pastry make it a delightful treat."
     },
     {
         "country": "Belgium",
         "dish": "Speculoos (Spiced Cookies)",
-        "history": "Speculoos are traditional Belgian spiced cookies, often enjoyed with coffee or tea. They are characterized by their aromatic spices and crisp texture.",
-        "origin": "Belgium",
         "recipe": {
             "ingredients": [
                 "250g all-purpose flour",
@@ -2316,13 +2314,13 @@
                 "Step 5: Roll out dough on a floured surface and cut into shapes.",
                 "Step 6: Bake for 10-12 minutes until edges are golden. Cool on wire racks."
             ]
-        }
+        },
+        "origin": "Belgium",
+        "history": "Speculoos are traditional Belgian spiced cookies, often enjoyed with coffee or tea. They are characterized by their aromatic spices and crisp texture."
     },
     {
         "country": "Belgium",
         "dish": "Waterzooi (Belgian Stew)",
-        "history": "Waterzooi is a traditional Belgian stew that originated in Ghent. It is typically made with chicken or fish, vegetables, and a creamy broth, and is a comforting classic in Belgian cuisine.",
-        "origin": "Belgium",
         "recipe": {
             "ingredients": [
                 "1 kg chicken, cut into pieces",
@@ -2343,13 +2341,13 @@
                 "Step 4: Stir in cream and cook for another 10 minutes.",
                 "Step 5: Season with salt and pepper. Garnish with parsley before serving."
             ]
-        }
+        },
+        "origin": "Belgium",
+        "history": "Waterzooi is a traditional Belgian stew that originated in Ghent. It is typically made with chicken or fish, vegetables, and a creamy broth, and is a comforting classic in Belgian cuisine."
     },
     {
         "country": "Belgium",
         "dish": "Belgian Endive Salad",
-        "history": "Belgian Endive Salad is a refreshing salad that highlights the unique flavor of Belgian endives. It is often paired with apples and blue cheese for a delightful mix of flavors.",
-        "origin": "Belgium",
         "recipe": {
             "ingredients": [
                 "4 Belgian endives, chopped",
@@ -2365,13 +2363,13 @@
                 "Step 2: In a small bowl, whisk together olive oil, balsamic vinegar, salt, and pepper.",
                 "Step 3: Drizzle dressing over salad and toss gently to coat."
             ]
-        }
+        },
+        "origin": "Belgium",
+        "history": "Belgian Endive Salad is a refreshing salad that highlights the unique flavor of Belgian endives. It is often paired with apples and blue cheese for a delightful mix of flavors."
     },
     {
         "country": "Austria",
         "dish": "Wiener Schnitzel",
-        "history": "Wiener Schnitzel is a traditional Austrian dish made from breaded and fried veal cutlets. It is a classic of Viennese cuisine and is often served with a lemon wedge and a side of potato salad or cucumber salad.",
-        "origin": "Austria",
         "recipe": {
             "ingredients": [
                 "4 veal cutlets, pounded thin",
@@ -2388,13 +2386,13 @@
                 "Step 3: Heat oil in a large skillet over medium heat. Fry cutlets until golden brown and crispy, about 3-4 minutes per side.",
                 "Step 4: Drain on paper towels. Serve with lemon wedges."
             ]
-        }
+        },
+        "origin": "Austria",
+        "history": "Wiener Schnitzel is a traditional Austrian dish made from breaded and fried veal cutlets. It is a classic of Viennese cuisine and is often served with a lemon wedge and a side of potato salad or cucumber salad."
     },
     {
         "country": "Austria",
         "dish": "Sachertorte",
-        "history": "Sachertorte is a rich, chocolate cake with a layer of apricot jam and a smooth chocolate glaze. It was first created in Vienna by Franz Sacher in 1832 and has since become a symbol of Austrian culinary tradition.",
-        "origin": "Austria",
         "recipe": {
             "ingredients": [
                 "For the cake:",
@@ -2419,13 +2417,13 @@
                 "Step 7: Spread apricot jam over the top of the cake.",
                 "Step 8: For the glaze, heat cream until simmering. Pour over chopped chocolate and stir until smooth. Let cool slightly, then pour over the jam-covered cake."
             ]
-        }
+        },
+        "origin": "Austria",
+        "history": "Sachertorte is a rich, chocolate cake with a layer of apricot jam and a smooth chocolate glaze. It was first created in Vienna by Franz Sacher in 1832 and has since become a symbol of Austrian culinary tradition."
     },
     {
         "country": "Austria",
         "dish": "Apfelstrudel (Apple Strudel)",
-        "history": "Apfelstrudel is a traditional Austrian pastry made with thin layers of dough and a spiced apple filling. It is often enjoyed with powdered sugar and a dollop of whipped cream or vanilla sauce.",
-        "origin": "Austria",
         "recipe": {
             "ingredients": [
                 "For the filling:",
@@ -2450,13 +2448,13 @@
                 "Step 4: Spread apple filling evenly over the dough. Roll up tightly and place on a baking sheet lined with parchment paper.",
                 "Step 5: Brush with melted butter and bake at 180°C (350°F) for 35-40 minutes until golden brown."
             ]
-        }
+        },
+        "origin": "Austria",
+        "history": "Apfelstrudel is a traditional Austrian pastry made with thin layers of dough and a spiced apple filling. It is often enjoyed with powdered sugar and a dollop of whipped cream or vanilla sauce."
     },
     {
         "country": "Austria",
         "dish": "Kaiserschmarrn",
-        "history": "Kaiserschmarrn is a fluffy, shredded pancake that is traditionally served as a dessert or sweet main course. It is named after Emperor Franz Joseph I of Austria and is a favorite in Austrian and Bavarian cuisine.",
-        "origin": "Austria",
         "recipe": {
             "ingredients": [
                 "4 large eggs",
@@ -2474,13 +2472,13 @@
                 "Step 3: Using a spatula, tear the pancake into pieces and flip to cook the other side.",
                 "Step 4: Dust with powdered sugar and serve with fruit compote or jam."
             ]
-        }
+        },
+        "origin": "Austria",
+        "history": "Kaiserschmarrn is a fluffy, shredded pancake that is traditionally served as a dessert or sweet main course. It is named after Emperor Franz Joseph I of Austria and is a favorite in Austrian and Bavarian cuisine."
     },
     {
         "country": "Austria",
         "dish": "Goulash",
-        "history": "Goulash is a hearty stew with origins in Hungary, but it is also a beloved dish in Austria. Austrian goulash is typically made with beef and flavored with paprika and caraway seeds.",
-        "origin": "Austria",
         "recipe": {
             "ingredients": [
                 "1 kg beef stew meat, cut into cubes",
@@ -2502,13 +2500,13 @@
                 "Step 5: Reduce heat and simmer for 1.5-2 hours, or until beef is tender.",
                 "Step 6: Season with salt and pepper. Garnish with parsley before serving."
             ]
-        }
+        },
+        "origin": "Austria",
+        "history": "Goulash is a hearty stew with origins in Hungary, but it is also a beloved dish in Austria. Austrian goulash is typically made with beef and flavored with paprika and caraway seeds."
     },
     {
         "country": "Austria",
         "dish": "Tafelspitz",
-        "history": "Tafelspitz is a traditional Austrian dish consisting of boiled beef served with various accompaniments. It is considered a classic dish of Viennese cuisine and is often enjoyed with horseradish and apple sauce.",
-        "origin": "Austria",
         "recipe": {
             "ingredients": [
                 "1.5 kg beef brisket",
@@ -2529,13 +2527,13 @@
                 "Step 4: Remove beef from the pot and let rest before slicing.",
                 "Step 5: Serve with horseradish and apple sauce."
             ]
-        }
+        },
+        "origin": "Austria",
+        "history": "Tafelspitz is a traditional Austrian dish consisting of boiled beef served with various accompaniments. It is considered a classic dish of Viennese cuisine and is often enjoyed with horseradish and apple sauce."
     },
     {
         "country": "Austria",
         "dish": "Wiener Backhendl",
-        "history": "Wiener Backhendl is a traditional Austrian dish of fried chicken, often served with a lemon wedge. It is a popular choice in Austrian pubs and restaurants.",
-        "origin": "Austria",
         "recipe": {
             "ingredients": [
                 "4 chicken thighs, skinless and boneless",
@@ -2552,13 +2550,13 @@
                 "Step 3: Heat oil in a large skillet over medium heat. Fry chicken until golden brown and crispy, about 6-8 minutes per side.",
                 "Step 4: Drain on paper towels. Serve with lemon wedges."
             ]
-        }
+        },
+        "origin": "Austria",
+        "history": "Wiener Backhendl is a traditional Austrian dish of fried chicken, often served with a lemon wedge. It is a popular choice in Austrian pubs and restaurants."
     },
     {
         "country": "Austria",
         "dish": "Kaiserschmarrn",
-        "history": "Kaiserschmarrn is a fluffy, shredded pancake that is traditionally served as a dessert or sweet main course. It is named after Emperor Franz Joseph I of Austria and is a favorite in Austrian and Bavarian cuisine.",
-        "origin": "Austria",
         "recipe": {
             "ingredients": [
                 "4 large eggs",
@@ -2576,13 +2574,13 @@
                 "Step 3: Using a spatula, tear the pancake into pieces and flip to cook the other side.",
                 "Step 4: Dust with powdered sugar and serve with fruit compote or jam."
             ]
-        }
+        },
+        "origin": "Austria",
+        "history": "Kaiserschmarrn is a fluffy, shredded pancake that is traditionally served as a dessert or sweet main course. It is named after Emperor Franz Joseph I of Austria and is a favorite in Austrian and Bavarian cuisine."
     },
     {
         "country": "Austria",
         "dish": "Buchteln (Austrian Sweet Rolls)",
-        "history": "Buchteln are soft, sweet rolls filled with fruit jam, a traditional Austrian treat often enjoyed for breakfast or dessert.",
-        "origin": "Austria",
         "recipe": {
             "ingredients": [
                 "500g all-purpose flour",
@@ -2602,6 +2600,8 @@
                 "Step 4: Place rolls in a greased baking dish and let rise for another 30 minutes.",
                 "Step 5: Bake at 180°C (350°F) for 25-30 minutes until golden brown. Dust with powdered sugar before serving."
             ]
-        }
+        },
+        "origin": "Austria",
+        "history": "Buchteln are soft, sweet rolls filled with fruit jam, a traditional Austrian treat often enjoyed for breakfast or dessert."
     }
 ]
